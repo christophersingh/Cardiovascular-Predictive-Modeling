@@ -1,3 +1,8 @@
 # Preliminary_Cardiovascular_Research
 
-This is the beginning of my research into predictive analytics of cardiovascular diseases
+In order to run this python notebook:
+
+1. Change runtime type to GPU in Google Colab
+2. Upload your kaggle.json API key file
+
+Note: The code will take approximately 22 - 24 minutes to run from start to finish
