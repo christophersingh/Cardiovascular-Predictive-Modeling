@@ -1,4 +1,4 @@
-# Preliminary_Cardiovascular_Research
+# Cardiovascular Predictive Analytics 
 
 Feel free to check out the on-demand dashboard below: 
 
@@ -12,3 +12,11 @@ In order to run this python notebook:
 4. Run all cells
 
 Note: The code will take approximately 22 - 24 minutes to run from start to finish
+
+Machine Learning Models Explored Include:
+1. Artificial Neural Networks
+2. Decision Trees
+3. Naive Bayes Classifiers
+4. K-Means Clustering
+5. Logistical Regression
+6. Linear Regression
