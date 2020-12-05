@@ -21,4 +21,4 @@ https://datastudio.google.com/reporting/f532c9df-d1f1-45bc-910a-1bb85294c1a1/pag
 5. Logistical Regression
 6. Linear Regression
 
-Note: The code will take approximately 22 - 24 minutes to run from start to finish
+Note: The code will take approximately 23 - 26 minutes to run from start to finish
