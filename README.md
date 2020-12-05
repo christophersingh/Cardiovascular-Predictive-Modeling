@@ -1,5 +1,7 @@
 # Cardiovascular Predictive Analytics 
 
+An in depth approach to predicting the presence of cardiovascular disease through the use of data mining techniques. This area of research is critically important because cardiovascular disease is currently the number one cause of death.
+
 Feel free to check out the on-demand dashboard below (Created in DataStudio From GCP): 
 
 https://datastudio.google.com/reporting/f532c9df-d1f1-45bc-910a-1bb85294c1a1/page/lwtqB
